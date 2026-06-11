@@ -19,7 +19,7 @@ link: https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&
 # Das Moodle Buch-Tool als Anleitung für Moodle
 
 > **Ein Selbstlernkurs für Schulleitungen, Lehrkräfte, Lehramtsstudierende und Referendar:innen**
->
+
 ---
 
 ## 📋 Kursübersicht
