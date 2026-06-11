@@ -20,6 +20,7 @@ link: https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&
 
 > **Ein Selbstlernkurs für Schulleitungen, Lehrkräfte, Lehramtsstudierende und Referendar:innen**
 
+
 ---
 
 ## 📋 Kursübersicht
@@ -194,13 +195,13 @@ Das Buch-Tool macht aus solchen Einzelerfahrungen ein gemeinsames Wissenssystem.
 
 ---
 
-### 1.4 Einführende Video und Leseempfehlung
+### 1.4 Einführung: deutsche Lese- und Videoempfehlung
 
 > 🎬 **Empfohlene Ressource:**
 >
-> **MoodleDocs – Book resource**
+> **MoodleDocs – Buch**
 >
-> 🔗 [docs.moodle.org – Book resource](https://docs.moodle.org/en/Book_resource)
+> 🔗 [docs.moodle.org – Buch](https://docs.moodle.org/de/Buch)
 >
 > *Offizielle Moodle Dokumentation zum Buch-Tool mit Beschreibung der Buchstruktur, Einbettungsmöglichkeiten und Druckfunktion.*
 
@@ -616,15 +617,25 @@ Eine solche Struktur ist nicht endgültig. Sie ist ein Startpunkt. Wichtig ist, 
 
 ---
 
-### 4.4 Video-Empfehlung: Buch in Moodle nutzen
+### 4.4 Deutsche Ressource: Buch in Moodle anlegen und nutzen
 
-> 🎬 **Empfohlene Ressource:**
+> 📘 **Empfohlene Ressource:**
 >
-> **MoodleDocs – Book resource**
+> **MoodleDocs Deutsch – Buch konfigurieren**
 >
-> 🔗 [docs.moodle.org – Book resource](https://docs.moodle.org/en/Book_resource)
+> 🔗 [MoodleDocs Deutsch: Buch konfigurieren](https://docs.moodle.org/de/Buch_konfigurieren)
 >
-> *Die Moodle Dokumentation enthält auch eingebettete Videohinweise und beschreibt die Grundfunktion des Buch-Tools.*
+> *Die deutschsprachige Moodle-Dokumentation zeigt die Grundschritte, um ein Buch im Kurs anzulegen und zu konfigurieren.*
+>
+> ---
+>
+> 📘 **Ergänzende Schritt-für-Schritt-Anleitung:**
+>
+> **Academic Moodle Cooperation – Buch anlegen**
+>
+> 🔗 [Academic Moodle Cooperation: Buch anlegen](https://academic-moodle-cooperation.org/anleitungen/buch-anlegen/)
+>
+> *Deutschsprachige Handlungsanleitung zum Anlegen eines Moodle Buches. Besonders geeignet für Kolleg:innen, die eine klare Schrittfolge benötigen.*
 
 ---
 
@@ -851,15 +862,25 @@ Bevor eine neue Anleitung freigegeben wird, kann folgende Checkliste genutzt wer
 
 ---
 
-### 📺 Video-Empfehlung: Moodle Kursgestaltung und Ressourcen
+### 📚 Deutsche Praxisressourcen: Moodle Buch und Kursgestaltung
 
-> 🎬 **Empfohlene Ressource:**
+> 📘 **Empfohlene Ressource:**
 >
-> **Moodle Academy**
+> **Schulcampus RLP – Moodle-Aktivität Buch**
 >
-> 🔗 [moodle.academy](https://moodle.academy/)
+> 🔗 [Infoportal Schulcampus RLP: Moodle-Aktivität Buch](https://infoportal.schulcampus-rlp.de/lehrende/moodle/moodle-aktivitaet-buch/)
 >
-> *Offizielle Moodle Lernplattform mit Kursen und Materialien zur Arbeit mit Moodle.*
+> *Deutschsprachige schulnahe Einführung in das Moodle Buch als Arbeitsmaterial für strukturierte Informationen und Lerninhalte.*
+>
+> ---
+>
+> 📄 **Ergänzende PDF-Anleitung:**
+>
+> **Schulcampus RLP – Tutorial: Das Buch**
+>
+> 🔗 [Tutorial: Das Buch](https://infoportal.schulcampus-rlp.de/wp-content/uploads/2023/01/Tutorial-Buch.pdf)
+>
+> *Praxisnahe deutschsprachige Schrittfolge zum Anlegen und Gestalten eines Moodle Buches. Die Screenshots können je nach Moodle Version abweichen, die Grundlogik bleibt aber hilfreich.*
 
 ---
 
@@ -976,20 +997,22 @@ Sie haben in diesem Kurs das Moodle Buch-Tool als internes Anleitungssystem erar
 
 ### Weiterführende Ressourcen
 
-**Offizielle Moodle Quellen:**
+**Deutschsprachige Moodle Quellen:**
 
-- 🔗 [MoodleDocs – Book resource](https://docs.moodle.org/en/Book_resource)
-- 🔗 [Moodle Academy](https://moodle.academy/)
-- 🔗 [MoodleDocs – Managing a Moodle course](https://docs.moodle.org/en/Managing_a_Moodle_course)
+- 🔗 [MoodleDocs Deutsch – Buch](https://docs.moodle.org/de/Buch)
+- 🔗 [MoodleDocs Deutsch – Buch konfigurieren](https://docs.moodle.org/de/Buch_konfigurieren)
+- 🔗 [MoodleDocs Deutsch – Buch nutzen](https://docs.moodle.org/de/Buch_nutzen)
+- 🔗 [Academic Moodle Cooperation – Buch anlegen](https://academic-moodle-cooperation.org/anleitungen/buch-anlegen/)
 
 **Screenshots und Bildschirmvideos:**
 
 - 🔗 [Microsoft Support – Snipping Tool](https://support.microsoft.com/de-de/windows/aufnehmen-von-screenshots-mithilfe-des-snipping-tools-00246869-1843-655f-f220-97299b865f6b)
 
-**Praxis und Organisationsentwicklung:**
+**Schulnahe Praxisressourcen:**
 
-- 🔗 [Moodle Community](https://moodle.org/)
-- 🔗 [Moodle YouTube Channel](https://www.youtube.com/@moodle)
+- 🔗 [Schulcampus RLP – Moodle-Aktivität Buch](https://infoportal.schulcampus-rlp.de/lehrende/moodle/moodle-aktivitaet-buch/)
+- 🔗 [Schulcampus RLP – Tutorial: Das Buch](https://infoportal.schulcampus-rlp.de/wp-content/uploads/2023/01/Tutorial-Buch.pdf)
+- 🔗 [HTW Berlin Mediathek – Digitale Bücher in Moodle erstellen](https://mediathek.htw-berlin.de/video/digitale-bcher-in-moodle-erstellen/7a4c4381b33a29ffa60621f46795e178)
 
 ---
 
@@ -999,9 +1022,19 @@ Kern, S. (Hrsg.). (2026). *Digitalisierte Erzieher:innenausbildung an der Pädag
 
 Microsoft Support. (o. D.). *Aufnehmen von Screenshots mithilfe des Snipping Tools*. https://support.microsoft.com/de-de/windows/aufnehmen-von-screenshots-mithilfe-des-snipping-tools-00246869-1843-655f-f220-97299b865f6b
 
-Moodle. (o. D.). *Book resource*. MoodleDocs. https://docs.moodle.org/en/Book_resource
+Academic Moodle Cooperation. (o. D.). *Buch anlegen*. https://academic-moodle-cooperation.org/anleitungen/buch-anlegen/
 
-Moodle. (o. D.). *Moodle Academy*. https://moodle.academy/
+Hochschule für Technik und Wirtschaft Berlin. (o. D.). *Digitale Bücher in Moodle erstellen* [Video]. https://mediathek.htw-berlin.de/video/digitale-bcher-in-moodle-erstellen/7a4c4381b33a29ffa60621f46795e178
+
+MoodleDocs. (o. D.). *Buch*. https://docs.moodle.org/de/Buch
+
+MoodleDocs. (o. D.). *Buch konfigurieren*. https://docs.moodle.org/de/Buch_konfigurieren
+
+MoodleDocs. (o. D.). *Buch nutzen*. https://docs.moodle.org/de/Buch_nutzen
+
+Pädagogisches Landesinstitut Rheinland-Pfalz. (2023). *Moodle-Aktivität – Buch*. Schulcampus RLP Infoportal. https://infoportal.schulcampus-rlp.de/lehrende/moodle/moodle-aktivitaet-buch/
+
+Pädagogisches Landesinstitut Rheinland-Pfalz. (2021). *Tutorial: Das Buch*. https://infoportal.schulcampus-rlp.de/wp-content/uploads/2023/01/Tutorial-Buch.pdf
 
 Senge, P. (1996). *Die fünfte Disziplin: Kunst und Praxis der lernenden Organisation* (2. Aufl.). Klett-Cotta.
 
