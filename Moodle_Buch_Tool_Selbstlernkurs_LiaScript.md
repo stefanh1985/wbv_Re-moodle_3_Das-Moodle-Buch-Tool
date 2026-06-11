@@ -829,13 +829,13 @@ Bevor eine neue Anleitung freigegeben wird, kann folgende Checkliste genutzt wer
 │                                                            │
 │  ✓ Titel ist klar und handlungsbezogen                     │
 │  ✓ Zweck des Werkzeugs wird erklärt                        │
-│  ✓ Schrittfolge ist vollständig und nicht überladen         │
-│  ✓ Screenshots zeigen keine personenbezogenen Daten         │
-│  ✓ Bilder haben kurze Beschreibungen                        │
-│  ✓ Video ist kurz und ruhig aufgenommen                     │
-│  ✓ typische Stolperstelle wird benannt                      │
-│  ✓ Praxistipp stellt pädagogischen Bezug her                │
-│  ✓ Seite ist auch mittelfristig für Lernende adaptierbar    │
+│  ✓ Schrittfolge ist vollständig und nicht überladen        │
+│  ✓ Screenshots zeigen keine personenbezogenen Daten        │
+│  ✓ Bilder haben kurze Beschreibungen                       │
+│  ✓ Video ist kurz und ruhig aufgenommen                    │
+│  ✓ typische Stolperstelle wird benannt                     │
+│  ✓ Praxistipp stellt pädagogischen Bezug her               │
+│  ✓ Seite ist auch mittelfristig für Lernende adaptierbar   │
 └────────────────────────────────────────────────────────────┘
 ```
 
