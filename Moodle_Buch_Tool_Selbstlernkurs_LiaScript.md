@@ -77,7 +77,7 @@ Gesamt:                                           ca. 3–4 Stunden
 
 ## Modul 0: Einstieg – Warum überhaupt ein Anleitungsbuch?
 
-![Illustration Modul 0: Eine Lehrkraft sitzt vor einem Moodle Kursraum. Auf dem Bildschirm sind viele einzelne Dateien, Screenshots und Links unübersichtlich verteilt. Daneben liegt ein leeres Notizbuch mit der Überschrift „Moodle Anleitung". Die Lehrkraft wirkt nicht verzweifelt, aber deutlich orientierungssuchend. Stil: warmherziger Comic-Stil, klare Linien, freundliche Farben, Querformat 16:9. Bildunterschrift: „Wer Moodle nachhaltig nutzen will, braucht mehr als einzelne Tipps."](modul0_moodle_buch_einstieg.png "Modul 0 – Warum ein Moodle Anleitungsbuch?")
+![Illustration Modul 0: Eine Lehrkraft sitzt vor einem Moodle Kursraum. Auf dem Bildschirm sind viele einzelne Dateien, Screenshots und Links unübersichtlich verteilt. Daneben liegt ein leeres Notizbuch mit der Überschrift „Moodle Anleitung". Die Lehrkraft wirkt nicht verzweifelt, aber deutlich orientierungssuchend. Stil: warmherziger Comic-Stil, klare Linien, freundliche Farben, Querformat 16:9. Bildunterschrift: „Wer Moodle nachhaltig nutzen will, braucht mehr als einzelne Tipps."](Modul0.png "Modul 0 – Warum ein Moodle Anleitungsbuch?")
 
 ### Selbsteinschätzung vor dem Kurs
 
@@ -149,7 +149,7 @@ Welche Aussage beschreibt die Funktion eines Moodle Anleitungsbuches am treffend
 
 ## Modul 1: Das Moodle Buch-Tool verstehen
 
-![Illustration Modul 1: Eine Schulleitung und eine Lehrkraft stehen vor einem großen digitalen Buch auf einem Moodle Bildschirm. Das Buch hat ein Inhaltsverzeichnis mit Kapiteln wie „Forum", „Aufgabe", „Datei" und „Feedback". Kleine Icons zeigen Text, Bild, Video und Link. Stil: Flat Design Comic, klare Konturen, Blau, Grün, Cremeweiß. Bildunterschrift: „Das Buch-Tool macht aus Einzelwissen ein geordnetes System."](modul1_moodle_buch_verstehen.png "Modul 1 – Was ist das Moodle Buch-Tool?")
+![Illustration Modul 1: Eine Schulleitung und eine Lehrkraft stehen vor einem großen digitalen Buch auf einem Moodle Bildschirm. Das Buch hat ein Inhaltsverzeichnis mit Kapiteln wie „Forum", „Aufgabe", „Datei" und „Feedback". Kleine Icons zeigen Text, Bild, Video und Link. Stil: Flat Design Comic, klare Konturen, Blau, Grün, Cremeweiß. Bildunterschrift: „Das Buch-Tool macht aus Einzelwissen ein geordnetes System."](Modul1.png "Modul 1 – Was ist das Moodle Buch-Tool?")
 
 ### 1.1 Was ist das Buch-Tool?
 
@@ -250,7 +250,7 @@ Das Buch-Tool macht aus solchen Einzelerfahrungen ein gemeinsames Wissenssystem.
 
 ## Modul 2: Aufbau einer guten Moodle Anleitung
 
-![Illustration Modul 2: Auf einem großen Plakat steht „Gute Anleitung". Darunter sind Bausteine angeordnet: Was ist das? Wozu nutzen? Schritt für Schritt. Screenshot. Stolperstellen. Praxistipp. Eine Lehrkraft ordnet die Bausteine gemeinsam mit zwei Kolleg:innen. Stil: warmherziger Comic-Stil, Grün, Blau, Senfgelb, Cremeweiß. Bildunterschrift: „Eine gute Anleitung denkt nicht nur den Klickweg, sondern den Zweck."](modul2_aufbau_anleitung.png "Modul 2 – Aufbau einer Moodle Anleitung")
+![Illustration Modul 2: Auf einem großen Plakat steht „Gute Anleitung". Darunter sind Bausteine angeordnet: Was ist das? Wozu nutzen? Schritt für Schritt. Screenshot. Stolperstellen. Praxistipp. Eine Lehrkraft ordnet die Bausteine gemeinsam mit zwei Kolleg:innen. Stil: warmherziger Comic-Stil, Grün, Blau, Senfgelb, Cremeweiß. Bildunterschrift: „Eine gute Anleitung denkt nicht nur den Klickweg, sondern den Zweck."](Modul2.png "Modul 2 – Aufbau einer Moodle Anleitung")
 
 ### 2.1 Vom Klickweg zur pädagogischen Orientierung
 
@@ -380,7 +380,7 @@ Ein gutes Forum beginnt nicht mit „Diskutieren Sie“, sondern mit einer fokus
 
 ## Modul 3: Screenshots und kurze Videos erstellen
 
-![Illustration Modul 3: Eine Lehrkraft nimmt mit dem Snipping Tool einen Ausschnitt eines Moodle Kurses auf. Daneben sind zwei Symbole zu sehen: Kamera für Screenshot und Filmkamera für Bildschirmvideo. Stil: Flat Design Comic, Blau, Weiß, Orange, Hellgrau. Bildunterschrift: „Gute Anleitungen zeigen genau den Ausschnitt, der gebraucht wird."](modul3_snipping_tool.png "Modul 3 – Screenshots und Videos erstellen")
+![Illustration Modul 3: Eine Lehrkraft nimmt mit dem Snipping Tool einen Ausschnitt eines Moodle Kurses auf. Daneben sind zwei Symbole zu sehen: Kamera für Screenshot und Filmkamera für Bildschirmvideo. Stil: Flat Design Comic, Blau, Weiß, Orange, Hellgrau. Bildunterschrift: „Gute Anleitungen zeigen genau den Ausschnitt, der gebraucht wird."](Modul3.png "Modul 3 – Screenshots und Videos erstellen")
 
 ### 3.1 Warum Screenshots und Videos notwendig sind
 
@@ -515,7 +515,7 @@ Nicht der ganze Bildschirm ist hilfreich, sondern der richtige Ausschnitt. Je we
 
 ## Modul 4: Inhalte in das Moodle Buch einbinden
 
-![Illustration Modul 4: Eine Lehrkraft fügt in eine Moodle Buchseite Text, Screenshot und Video ein. Auf dem Bildschirm sieht man Kapitelstruktur, Editor und eine Vorschau. Stil: warmherziger Comic-Stil, klare Konturen, Grün, Blau, Orange. Bildunterschrift: „Ein Buch wird dann hilfreich, wenn Text, Bild und Video zusammenarbeiten."](modul4_buch_inhalte_einbinden.png "Modul 4 – Inhalte in das Moodle Buch einbinden")
+![Illustration Modul 4: Eine Lehrkraft fügt in eine Moodle Buchseite Text, Screenshot und Video ein. Auf dem Bildschirm sieht man Kapitelstruktur, Editor und eine Vorschau. Stil: warmherziger Comic-Stil, klare Konturen, Grün, Blau, Orange. Bildunterschrift: „Ein Buch wird dann hilfreich, wenn Text, Bild und Video zusammenarbeiten."](Modul4.png "Modul 4 – Inhalte in das Moodle Buch einbinden")
 
 ### 4.1 Ein Buch in Moodle anlegen
 
@@ -693,7 +693,7 @@ Eine solche Struktur ist nicht endgültig. Sie ist ein Startpunkt. Wichtig ist, 
 
 ## Modul 5: Vom Kollegiumshandbuch zur Lernendenperspektive
 
-![Illustration Modul 5: Links sieht man ein internes Lehrer:innenzimmer mit einem Moodle Anleitungsbuch. Rechts sieht man Schüler:innen oder Studierende, die eine vereinfachte Anleitung nutzen. Zwischen beiden Bereichen verläuft ein Pfeil mit der Aufschrift „sprachlich anpassen, didaktisch reduzieren, zugänglich machen". Stil: warmherziger Comic-Stil, Cremeweiß, Grün, Terrakotta. Bildunterschrift: „Was Kolleg:innen hilft, kann später auch Lernenden Orientierung geben."](modul5_lernendenperspektive.png "Modul 5 – Anleitungen für Kollegium und Lernende denken")
+![Illustration Modul 5: Links sieht man ein internes Lehrer:innenzimmer mit einem Moodle Anleitungsbuch. Rechts sieht man Schüler:innen oder Studierende, die eine vereinfachte Anleitung nutzen. Zwischen beiden Bereichen verläuft ein Pfeil mit der Aufschrift „sprachlich anpassen, didaktisch reduzieren, zugänglich machen". Stil: warmherziger Comic-Stil, Cremeweiß, Grün, Terrakotta. Bildunterschrift: „Was Kolleg:innen hilft, kann später auch Lernenden Orientierung geben."](Modul5.png "Modul 5 – Anleitungen für Kollegium und Lernende denken")
 
 ### 5.1 Warum von Beginn an doppelt denken?
 
@@ -793,7 +793,7 @@ Beide Formulierungen gehören zur selben Moodle Funktion. Sie haben aber untersc
 
 ## Modul 6: Pflege, Qualitätssicherung und Verstetigung
 
-![Illustration Modul 6: Ein digitales Lehrer:innenzimmer mit einem Moodle Anleitungsbuch. Mehrere Kolleg:innen ergänzen Fragen, markieren alte Inhalte und aktualisieren eine Seite. Auf einem Whiteboard steht „ausprobieren – reflektieren – dokumentieren – weitergeben". Stil: Flat Design Comic, Blau, Grün, Orange. Bildunterschrift: „Ein Anleitungsbuch lebt nur, wenn es gepflegt wird."](modul6_verstetigung.png "Modul 6 – Pflege und Qualitätssicherung")
+![Illustration Modul 6: Ein digitales Lehrer:innenzimmer mit einem Moodle Anleitungsbuch. Mehrere Kolleg:innen ergänzen Fragen, markieren alte Inhalte und aktualisieren eine Seite. Auf einem Whiteboard steht „ausprobieren – reflektieren – dokumentieren – weitergeben". Stil: Flat Design Comic, Blau, Grün, Orange. Bildunterschrift: „Ein Anleitungsbuch lebt nur, wenn es gepflegt wird."](Modul6.png "Modul 6 – Pflege und Qualitätssicherung")
 
 ### 6.1 Das Buch als lebendes Dokument
 
@@ -917,7 +917,7 @@ Bevor eine neue Anleitung freigegeben wird, kann folgende Checkliste genutzt wer
 
 ## Abschluss: Gesamtreflexion und Transfer
 
-![Illustration Abschluss: Vier Kolleg:innen sitzen im digitalen Lehrer:innenzimmer an einem runden Tisch. In der Mitte liegt ein Plan mit der Überschrift „Moodle Anleitungsbuch". Auf einem Bildschirm ist ein Buch mit Kapiteln, Screenshots und Videos zu sehen. Im Hintergrund steht „Wissen teilen. Praxis sichern. Kultur stärken." Stil: warmherziger Comic-Stil, Goldgelb, Grün, Cremeweiß, Terrakotta. Bildunterschrift: „Aus einzelnen Fragen entsteht gemeinsame Handlungssicherheit."](abschluss_moodle_buch.png "Abschluss – Das Moodle Buch als gemeinsames Wissenssystem")
+![Illustration Abschluss: Vier Kolleg:innen sitzen im digitalen Lehrer:innenzimmer an einem runden Tisch. In der Mitte liegt ein Plan mit der Überschrift „Moodle Anleitungsbuch". Auf einem Bildschirm ist ein Buch mit Kapiteln, Screenshots und Videos zu sehen. Im Hintergrund steht „Wissen teilen. Praxis sichern. Kultur stärken." Stil: warmherziger Comic-Stil, Goldgelb, Grün, Cremeweiß, Terrakotta. Bildunterschrift: „Aus einzelnen Fragen entsteht gemeinsame Handlungssicherheit."](Abschluss.png "Abschluss – Das Moodle Buch als gemeinsames Wissenssystem")
 
 ### Rückblick auf Ihren Lernweg
 
