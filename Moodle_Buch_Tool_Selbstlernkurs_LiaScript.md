@@ -1,9 +1,9 @@
 <!--
-author: Stefan Kern / Pädagogika Fachschule für Sozialpädagogik
+author: Stefan Hierholzer
 email:
 version: 1.0
 language: de
-narrator: German Female
+narrator: German Male
 
 comment: Selbstlernkurs Moodle Buch-Tool als Anleitungssystem.
          Für Schulleitungen, Lehrkräfte an Fachschulen für Sozialwesen und anderen beruflichen Schulen,
@@ -20,8 +20,6 @@ link: https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&
 
 > **Ein Selbstlernkurs für Schulleitungen, Lehrkräfte, Lehramtsstudierende und Referendar:innen**
 >
-> *Dieser Kurs ist Teil des Buchprojekts „Digitalisierte Erzieher:innenausbildung" und ergänzt den Exkurs zum Moodle Buch-Tool als internes Anleitungssystem im Rahmen nachhaltiger Moodle Implementation.*
-
 ---
 
 ## 📋 Kursübersicht
@@ -1011,9 +1009,3 @@ Senge, P. (1996). *Die fünfte Disziplin: Kunst und Praxis der lernenden Organis
 Fullan, M. (2016). *The new meaning of educational change* (5. Aufl.). Teachers College Press.
 
 ---
-
-> **Hinweis zu diesem Kurs:**
->
-> Dieser Selbstlernkurs wurde als ergänzendes Materialangebot zum Buchprojekt „Digitalisierte Erzieher:innenausbildung" entwickelt. Er kann im LiaScript Format in Moodle oder anderen offenen Lernplattformen eingesetzt werden. Alle verlinkten Ressourcen waren zum Zeitpunkt der Erstellung im Juni 2026 zugänglich. Der Kurs ersetzt keine lokale Moodle Administration und keine schulinterne Datenschutzprüfung. Screenshots und Videos sollten grundsätzlich in Testkursen oder Sandkästen erstellt werden und keine personenbezogenen Daten enthalten.
->
-> **Lizenz:** CC BY-SA 4.0 – Namensnennung, Weitergabe unter gleichen Bedingungen
