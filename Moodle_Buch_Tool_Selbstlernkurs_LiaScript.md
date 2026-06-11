@@ -30,7 +30,6 @@ link: https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&
 | **Zeitaufwand** | ca. 3–4 Stunden (selbstgesteuert, modular) |
 | **Niveau** | DQR Stufe 6 (Bachelor Äquivalenz) |
 | **Format** | Selbstlernkurs mit Reflexionsphasen, Praxisaufträgen, Fallbeispielen und Selbstüberprüfung |
-| **Einbettung** | Ergänzendes Material zu: Kern, S. (Hrsg.) (2026). *Digitalisierte Erzieher:innenausbildung an der Pädagogika Fachschule Potsdam (.de)*. Exkurs: Das Buch-Tool in Moodle |
 | **Zielrichtung** | Aufbau eines internen Moodle Anleitungssystems für Kollegium und mittelfristig auch für Schüler:innen beziehungsweise Studierende |
 
 ---
